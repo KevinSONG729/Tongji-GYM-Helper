@@ -1,0 +1,14 @@
+{
+    "platform": "Edge",
+    "student_id":"2233016",
+    "password":"wssxwKEVI7",
+    "playground_choice":2,
+    "day_choice":2,
+    "time_choice":2,
+    "is_headless": false,
+    "img_width": 400,
+    "img_height": 200,
+    "img_width_online": 310,
+    "img_height_online": 155,
+    "partner_student_id": "2233017"
+}
