@@ -6,8 +6,8 @@ from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.action_chains  import ActionChains
 import base64
-from decorators import retry, suppress_errors
-from test import get_coordinate
+from decorators import retry
+from word_detection_and_match import get_coordinate
 import time
 import json
 
