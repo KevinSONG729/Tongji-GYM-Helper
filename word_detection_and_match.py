@@ -74,7 +74,7 @@ def get_coordinate(target_word_list, img_filename):
 
     # cv.imshow("img",mask)
     # cv.waitKey(0)
-    
+    res_list = sorted(res_list, key=lambda a:a[1])
     return res_list
 
 if __name__ == "__main__":
