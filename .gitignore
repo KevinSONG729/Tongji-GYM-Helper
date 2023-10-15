@@ -1,3 +1,6 @@
 *.png
 __pycache__/
 .history
+*.json
+*.bat
+*.txt
